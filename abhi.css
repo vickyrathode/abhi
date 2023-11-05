@@ -1,0 +1,25 @@
+body{
+    align-items: center;
+    background: url(k1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: blue;
+    background-color: crimson;
+}
+
+h2{
+    font-size: large;
+    color: rgb(64, 239, 21);
+}
+
+h1:hover{
+    color: aliceblue;
+    background: blue;
+}
+p:hover{
+    color: rgb(58, 165, 42);
+    cursor:e-resize;
+}
